@@ -1,0 +1,5 @@
+9 1 0 -1 5 2 6 10 11 
+After deletion
+9 5 2 6 11 
+
+ Executed In: 0 ms
